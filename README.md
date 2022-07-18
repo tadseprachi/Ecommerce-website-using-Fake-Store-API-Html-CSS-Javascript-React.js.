@@ -1,7 +1,11 @@
 # Getting Started with Create React App
+
 A React Js e-commerce website. It includes two pages, the homepage to display the list of products and page 2 to display the details of the selected product.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# website Image Page 1
+![website page 1](https://user-images.githubusercontent.com/96107593/179496377-4a0c46a6-b1f2-4118-9e7e-3b7022f6878a.png)
+#website Image Page 2
 ## Available Scripts
 
 In the project directory, you can run:
