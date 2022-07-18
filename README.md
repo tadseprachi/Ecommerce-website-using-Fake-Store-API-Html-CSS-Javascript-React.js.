@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+A React Js e-commerce website. It includes two pages, the homepage to display the list of products and page 2 to display the details of the selected product.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
